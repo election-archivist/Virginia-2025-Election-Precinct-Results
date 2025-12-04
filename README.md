@@ -1,5 +1,8 @@
 # Virginia 2025 Statewide Elections: Precinct GeoPackage
 
+> **Election date:** 4 November 2025  
+> **Dataset version date:** 3 December 2025
+
 <p align="left">
   <img src="VA%202025%20Data%20Preview.png"
        alt="Virginia 2025 statewide precinct results"
